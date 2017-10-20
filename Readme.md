@@ -97,6 +97,15 @@ Documentation for the api can be found here: [api-source][] 📚
 - Have fun!! 😄
 - Program/frontend skillz have the highest weight so I recommend using a popular design framework such as [bootstrap][], [material-ui][], etc.
 
+## Submission
+
+Please provide the following:
+
+- An email letting me know you've finished!
+- A link to the app deployed on the interwebs, an uploaded video walking through the UI, or runnable codez
+- A link to the source code
+- Schedule a time for a live code walk-through where I'll ask questions
+
 ##
 
 [client-example]: https://settheset.github.io/code-challenge-client
