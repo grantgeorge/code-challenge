@@ -18,11 +18,16 @@ and the ability to follow other users. It's very similar to some other, popular
 "short message" app out there 😉
 
 You will be building a frontend client application that consumes an existing
-API interface.
+API interface. See the specification section below for more details of what
+the application should do.
 
 The API is available here: [api-example][] 🚀
 
 Documentation for the api can be found here: [api-source][] 📚
+
+An example application can be found here: [client-example][]
+
+And it's codez are available here: [client-source][]
 
 #### You do not need to download and use this API but are welcome to do so. Feel free to use the remote API listed above
 
