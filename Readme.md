@@ -20,9 +20,9 @@ and the ability to follow other users. It's very similar to some other, popular
 You will be building a frontend client application that consumes an existing
 API interface.
 
-The API is available here: [api-example][]
+The API is available here: [api-example][] 🚀
 
-Documentation for the api can be found here: [api-source][]
+Documentation for the api can be found here: [api-source][] 📚
 
 #### You do not need to download and use this API but are welcome to do so. Feel free to use the remote API listed above
 
@@ -39,9 +39,9 @@ Documentation for the api can be found here: [api-source][]
 
 #### Authentication
 
-- Authentication with [jwt][]
+- Authentication with [jwt][] 🔐
 
-#### Posts (or "short messages ;)")
+#### Posts (or "short messages 😉")
 
 - Show a "feed" of posts from users you follow
 - Show a global "feed" of all recent posts
@@ -76,7 +76,7 @@ Documentation for the api can be found here: [api-source][]
 
 ## How is it assessed?
 
-> This is in pseudo priority order
+> This is kinda™ in priority order
 
 - Code quality
 - Creativity
@@ -86,6 +86,7 @@ Documentation for the api can be found here: [api-source][]
 - Testing
 - General organization
 - Design and look/feel
+- Fun! 🎉
 
 ## General tips
 
@@ -93,8 +94,8 @@ Documentation for the api can be found here: [api-source][]
 - Use any framework you'd like or none at all!
 - Feel free to use any boilerplate, online guides, etc. The internet is your resource!
 - Feel free to ask me questions, or schedule a time to pair program (remote or in-person) a particular problem you're stuck on (up to 1 hour) <grant@settheset.com>!
-- Have fun!!
-- Program/frontend skills have the highest weight so I recommend using a popular design framework such as [bootstrap][], [material-ui][], etc.
+- Have fun!! 😄
+- Program/frontend skillz have the highest weight so I recommend using a popular design framework such as [bootstrap][], [material-ui][], etc.
 
 ##
 
