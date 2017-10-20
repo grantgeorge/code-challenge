@@ -137,6 +137,6 @@ Please provide the following:
 
 [material-ui]: https://material.io/guidelines/
 
-[boostrap]: http://getbootstrap.com/
+[bootstrap]: http://getbootstrap.com/
 
 [jwt]: https://jwt.io/
