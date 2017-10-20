@@ -24,24 +24,24 @@ The API is available here: [api-example][]
 
 Documentation for the api can be found here: [api-source][]
 
-####You do not need to download and use this API but are welcome to do so. Feel free to use the remote API listed above
+#### You do not need to download and use this API but are welcome to do so. Feel free to use the remote API listed above
 
 ## Application Specification
 
 > In priority order. For example, complete "Posts" before moving on to "Profiles"
 
-####Users
+#### Users
 
 - Create a new user
 - Login
 - View profile
 - Edit profile
 
-####Authentication
+#### Authentication
 
 - Authentication with [jwt][]
 
-####Posts (or "short messages ;)")
+#### Posts (or "short messages ;)")
 
 - Show a "feed" of posts from users you follow
 - Show a global "feed" of all recent posts
@@ -50,27 +50,27 @@ Documentation for the api can be found here: [api-source][]
 - Update a post
 - Delete a post
 
-####Favoriting
+#### Favoriting
 
 - Be able to favorite a post
 - Be able to unfavorite a post
 - Show total # of favorites
 - Indicate if user has favorited post
 
-####Commenting
+#### Commenting
 
 - View post comments under "details" view
 - Create a new post comment
 - Delete a post comment
 
-####Profiles
+#### Profiles
 
 - View a user's profile information
 - Follow a user
 - Unfollow a user
 - Show user follow count
 
-####Testing
+#### Testing
 
 - If time permits, add tests!!
 
