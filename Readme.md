@@ -27,7 +27,7 @@ Documentation for the api can be found here: [api-source][] 📚
 
 An example application can be found here: [client-example][]
 
-And it's codez are available here: [client-source][]
+And it's codez are available here: [client-source][] (react/redux)
 
 #### You do not need to download and use this API but are welcome to do so. Feel free to use the remote API listed above
 
